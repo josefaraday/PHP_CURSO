@@ -59,10 +59,13 @@ print("Hola mundo")
 |--------| ------ |------ |
 |col 3 is | right | $1600 |
 |col 2 is | centered | $12 |
+
 ![MySql Logo](https://th.bing.com/th/id/R.8c42b545869e13709f51d9d63420db9e?rik=Qn1XP%2f3ODAwfTQ&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2020%2f11%2fMySQL-logo.png&ehk=%2bFROjbg9Xnzy7rKmP%2bAzhYFI48RbpIW7SrIvlz285fo%3d&risl=&pid=ImgRaw&r=0 "MySql")
 
 <!--GIT HUB MARKDOWN-->
 * [x] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
 * [x] Task 4
+
+@faztweb :smiley: :+1:
